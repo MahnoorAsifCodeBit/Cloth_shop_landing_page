@@ -1,6 +1,4 @@
-Certainly! Here's the README file formatted in code for easy copy-pasting into your repository:
 
-```markdown
 # Cloth Shopping Website Landing Page
 
 This project is a small landing page for a cloth shopping website, showcasing various features and services using HTML, CSS, and Bootstrap.
